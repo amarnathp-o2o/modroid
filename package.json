@@ -1,0 +1,14 @@
+{
+  "name": "modroidtgbot",
+  "version": "1.0.0",
+  "description": "modroid bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "author": "modroid",
+  "license": "MIT",
+  "dependencies": {
+    "botgram": "^2.2.0"
+  }
+}
